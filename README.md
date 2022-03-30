@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dilyan Terziev @didorins
+- 👀 I’ve been in IT professionally since 2014 and as a hobby since I was 5 years old, messing around with my 286PC
+- 🌱 I’m currently expanding my knowledge in Cloud technologies
+- 📫 How to reach me by mail at didorins@gmail.com or by Linkedin https://www.linkedin.com/in/dilyan-terziev-a45159115/
